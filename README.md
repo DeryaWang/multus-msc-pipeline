@@ -12,7 +12,7 @@ Below are examples of the automated cell detection on different cell lines:
 
 | AD-E1 (t34) | BM-F11 (t34) | UC-H7 (t34) |
 | :---: | :---: | :---: |
-| ![AD-E1 Overlay](output/overlays/overlay_AD-E1-t34.tif) | ![BM-F11 Overlay](output/overlays/overlay_BM-F11-t34.tif) | ![UC-H7 Overlay](output/overlays/overlay_UC-H7-t34.tif) |
+| ![AD-E1 Overlay](output/overlays/overlay_AD-E1-t34.png) | ![BM-F11 Overlay](output/overlays/overlay_BM-F11-t34.png) | ![UC-H7 Overlay](output/overlays/overlay_UC-H7-t34.png) |
 
 ## Project Structure
 - `data/`: Raw images for analysis (ignored by git).
