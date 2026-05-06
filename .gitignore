@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Very large)
+data/*
+!data/README.md
+
+# Output files
+output/masks/*
+output/overlays/*
+!output/overlays/.gitkeep
+output/*.csv
+output/*.png
+
+# Virtual environments
+venv/
+env/
+.env
+
+# VS Code / Jupyter
+.vscode/
+.ipynb_checkpoints/

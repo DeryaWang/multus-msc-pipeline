@@ -1,0 +1,7 @@
+cellpose
+opencv-python-headless
+numpy
+pandas
+matplotlib
+torch
+torchvision
